@@ -546,3 +546,16 @@ $ ros2 run llama_demos llama_demo_node --ros-args -p prompt:="your prompt"
 
 https://github.com/mgonzs13/llama_ros/assets/25979134/9311761b-d900-4e58-b9f8-11c8efefdac4
 
+## Start Turtle_sim Navigation
+
+Under Progress !!
+To make the turtle sim navigate in this environment run the turtlesim node and give the appropriate command using the demo_node
+
+```shell
+ros2 run turtlesim turtlesim_node
+```
+
+![Alt text](images/figure03_movebefore.png)
+
+
+![Alt text](images/figure04_moveafter.png)
